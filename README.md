@@ -112,23 +112,37 @@ Backend-focused developer specializing in Python and Django REST Framework. I de
 - Exploring microservices, Docker, and cloud-native deployments
 - Learning advanced React patterns for API-driven UIs
 - Open to backend-focused roles, internships, and collaborations
+<br />
+<br />
+<br />
 
----
+<h1 align="center">📈 GitHub Stats</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-253%2B-2E7D32?style=flat-square" alt="253+ contributions in the last year" />
+  <img src="https://img.shields.io/badge/Repositories-25%2B-1565C0?style=flat-square" alt="25+ repositories" />
+</p>
+<hr />
+<br>
+<br>
+<h1 align="center">🌐 Links & Contact</h1>
 
-## 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/jiaamasum">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/masumjiaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://masum-fullstack-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:jiaamasum@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- **253+ contributions in the last year**
-- **25+ repositories**
 
----
-
-## 🌐 Links & Contact
-
-- [GitHub Profile](https://github.com/jiaamasum)
-- [LinkedIn](https://linkedin.com/in/masumjiaa)
-- [Portfolio](https://github.com/jiaamasum/masum-fullstack-portfolio)
-- [Email](mailto:jiaamasum@gmail.com)
-
----
+<hr >
+<br>
 
 <p align="center"><b>Let's connect! I'm open to backend roles, exciting projects, and new opportunities.</b></p>
