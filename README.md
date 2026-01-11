@@ -122,26 +122,16 @@ Backend-focused developer specializing in Python and Django REST Framework. I de
   <img src="https://img.shields.io/badge/Repositories-25%2B-1565C0?style=flat-square" alt="25+ repositories" />
 </p>
 <hr />
-<br>
-<br>
+
 <h1 align="center">🌐 Links & Contact</h1>
 
 <p align="center">
-  <a href="https://github.com/jiaamasum">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://github.com/jiaamasum"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/masumjiaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://masum-fullstack-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jiaamasum@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://masum-fullstack-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:jiaamasum@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-
 <hr >
 <br>
 
