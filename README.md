@@ -113,8 +113,6 @@ Backend-focused developer specializing in Python and Django REST Framework. I de
 - Learning advanced React patterns for API-driven UIs
 - Open to backend-focused roles, internships, and collaborations
 <br />
-<br />
-<br />
 
 <h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
